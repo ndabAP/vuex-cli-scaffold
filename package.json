@@ -1,12 +1,12 @@
 {
   "name": "vuex-cli-scaffold",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Scaffold vuex actions, mutations, getters and the state.",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --timeout 10000"
   },
-  "author": "Julian Claus",
+  "author": "Julian Claus <kontakt@julian-caus.de>",
   "license": "MIT",
   "repository": {
     "type": "git",
