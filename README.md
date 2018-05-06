@@ -9,8 +9,8 @@ can also create nested entities.
 ## Features
 
 - Multiple entities
-- Nested entities
-- Includes all Vuex elements
+- nested entities
+- includes all Vuex elements
 
 ## Installation
 
